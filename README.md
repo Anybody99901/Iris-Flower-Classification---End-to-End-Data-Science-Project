@@ -1,3 +1,15 @@
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : YASEER SHAIK
+
+INTERN ID : CT06DM03
+
+DOMAIN : DATA SCEINCE
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
 # 🌸 Iris Flower Classification - End-to-End Data Science Project
 
 This project is developed as part of **CodTech Internship - Task 3**. It is an end-to-end data science project that includes:
