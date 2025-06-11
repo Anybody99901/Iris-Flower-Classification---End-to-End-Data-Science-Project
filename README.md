@@ -52,8 +52,8 @@ It contains:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/iris-flower-classifier.git
-cd iris-flower-classifier
+git clone https://github.com/Anybody99901/Iris-Flower-Classification---End-to-End-Data-Science-Project.git
+cd Iris-Flower-Classification---End-to-End-Data-Science-Project
 ```
 ### 2. Install Requirements
 ```bash
